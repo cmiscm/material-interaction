@@ -11,7 +11,8 @@
 
 
 ### License
-Copyright (c) 2014 Jongmin Kim (http://cmiscm.com) 
+Copyright (c) Jongmin Kim (http://cmiscm.com) 
+Material Design (c) Google
 
 Licensed under the MIT license.
 
