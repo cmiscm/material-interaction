@@ -6,7 +6,7 @@ http://material.cmiscm.com/
 
 
 ### URL
-[http://material.cmiscm.com//](http://material.cmiscm.com/s/)
+[http://material.cmiscm.com/](http://material.cmiscm.com/)
 
 
 ### License
