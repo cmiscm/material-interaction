@@ -1,5 +1,4 @@
 # material-interaction
-http://material.cmiscm.com/
 
 
 [![alt text](http://cmiscm.github.com/material-interaction/screenshot/mi.jpg)](http://cmiscm.github.com/material-interaction/)
