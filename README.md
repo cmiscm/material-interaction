@@ -11,7 +11,7 @@
 
 
 ### License
-Copyright (c) Jongmin Kim (http://cmiscm.com)
+Copyright (c) Jongmin Kim (http://blog.cmiscm.com)
 
 Material Design (c) Google
 
